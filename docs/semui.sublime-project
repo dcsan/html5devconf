@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/dc/dev/ref/pubsub/semui",
+      "folder_exclude_patterns": [".meteor/local", "packages/*/.build"]
+		}
+	]
+}
